@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "workflow",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "test"
   },
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Mikaelajoelsen/work-environment/issues"
   },
-  "homepage": "https://github.com/Mikaelajoelsen/work-environment#readme"
+  "homepage": "https://github.com/Mikaelajoelsen/work-environment#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
