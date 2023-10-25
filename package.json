@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Mikaelajoelsen/work-environment#readme",
   "dependencies": {
+    "example-joker": "^0.0.4",
     "give-me-a-joke": "^0.4.0",
     "one-liner-joke": "^1.2.2"
   },
