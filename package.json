@@ -1,0 +1,22 @@
+{
+  "name": "work-environment",
+  "version": "1.0.0",
+  "description": "workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mikaelajoelsen/work-environment.git"
+  },
+  "keywords": [
+    "workflow"
+  ],
+  "author": "Mikaela Joelsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mikaelajoelsen/work-environment/issues"
+  },
+  "homepage": "https://github.com/Mikaelajoelsen/work-environment#readme"
+}
