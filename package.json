@@ -7,7 +7,9 @@
   "scripts": {
     "test": "node src/js/joker.js",
     "format": "prettier -w src/js/joker.js",
-    "patch": "npm version patch"
+    "patch": "npm version patch",
+    "lint": "eslint src/**/*.js",
+    "lint-fix": "eslint src/**/*.js --cache --fix"
   },
   "repository": {
     "type": "git",
@@ -28,6 +30,8 @@
     "one-liner-joke": "^1.2.2"
   },
   "devDependencies": {
+    "eslint": "^8.52.0",
+    "eslint-plugin-react": "^7.33.2",
     "prettier": "^3.0.3"
   }
 }
